@@ -692,6 +692,12 @@ header.jumbotron{
 #projects-container .project-item #michael{
     max-height: 213px;
 }
+#projects-container .project-item #imp{
+    max-height: 213px;
+}
+#projects-container .project-item #townpump{
+    max-height: 213px;
+}
 #projects-container .project-item.filtered{
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
@@ -927,7 +933,7 @@ header.jumbotron{
 .modal-body .project-descr{
     color:#aaa;
     margin:0 0 24px;
-    
+    text-align: center;
 }
 
 .modal-body .btn-theme{
