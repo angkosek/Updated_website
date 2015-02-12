@@ -689,15 +689,13 @@ header.jumbotron{
 	filter:alpha(opacity=100);
 	overflow:hidden;
 }
-#projects-container .project-item #michael{
+
+/*#projects-container .project-item #imp{
     max-height: 213px;
-}
-#projects-container .project-item #imp{
+}*/
+/*#projects-container .project-item #townpump{
     max-height: 213px;
-}
-#projects-container .project-item #townpump{
-    max-height: 213px;
-}
+}*/
 #projects-container .project-item.filtered{
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
