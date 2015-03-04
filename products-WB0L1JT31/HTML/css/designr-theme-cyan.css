@@ -364,6 +364,8 @@ header.jumbotron{
     font-size:38px;
     font-weight:300;
     line-height:48px;
+    padding-top: 35px;
+    padding-right: 60px;
 }
 
 .jumbotron .left-col p span{
