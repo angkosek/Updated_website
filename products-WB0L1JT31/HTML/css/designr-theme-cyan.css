@@ -695,9 +695,9 @@ header.jumbotron{
 /*#projects-container .project-item #imp{
     max-height: 213px;
 }*/
-/*#projects-container .project-item #townpump{
-    max-height: 213px;
-}*/
+#townpump{
+    max-height: 250px;
+}
 #projects-container .project-item.filtered{
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
