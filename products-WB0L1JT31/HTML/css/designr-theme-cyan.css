@@ -925,9 +925,8 @@ header.jumbotron{
 
 .modal-body h1{
     color:#8aaad9;
-    margin:200px 0 24px;
     font-size:32px;
-    text-align: right;
+    text-align: center;
 }
 
 .modal-body .project-descr{
