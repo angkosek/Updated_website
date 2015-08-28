@@ -698,6 +698,9 @@ header.jumbotron{
 #townpump{
     max-height: 250px;
 }
+#lapiadina{
+    max-height: 250px;
+}
 #projects-container .project-item.filtered{
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
