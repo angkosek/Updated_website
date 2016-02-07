@@ -701,6 +701,9 @@ header.jumbotron{
 #lapiadina{
     max-height: 250px;
 }
+#biz{
+    padding-top:30px;
+}
 #projects-container .project-item.filtered{
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
